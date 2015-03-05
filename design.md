@@ -11,4 +11,4 @@ Design is meant to leave mark and trigger action.
 
 Designing for the web requires understanding the web itself as a medium and material. With many different, continuously changing devices and browsers the task shifts from aesthetics to usability, making front-end code capability the proxy between art and reality.
 
-Web design needs tools and approach beyond print. In fact it needs both a designer and a developer.  
+Web design needs tools and approach beyond print. It is mobile first and goes device agnostic. It is both design & code. It is done well with a living styleguide.
