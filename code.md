@@ -11,3 +11,9 @@ Front-end code and workflow changes from project to project. It is not driven by
 Front-end development has no holy grail.
 
 &mdash;&mdash;
+
+What front-end code can do is to stay agile and adapt to changes.
+
+Lately we see a paradigm shift in programming user interfaces for apps and websites. With Javascript and it's frameworks everything got decomposed to basics and everyday we can find solid bits to incorporate into our workflow.
+
+With components and styleguides we come closer to a point where all stakeholders speak the same visual language, and you the customer won't be locked neither into a technology nor to a person from your team.
