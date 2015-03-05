@@ -5,3 +5,6 @@ With attention span so short user interfaces must be clean. No unnecesary elemen
 
 Going clear doesn't imply poor and forgettable, featureless design. It makes the design strong and the message delivered.
 
+Design is meant to leave mark and trigger action.
+
+
